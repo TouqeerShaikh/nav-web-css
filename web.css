@@ -47,6 +47,7 @@ body{
     height: 8vh;
     margin-left: 3vw;
     padding: 2.5vh 1.5vw;
+    border: 2px solid rgba(255, 255, 255, 0.363);
     border-radius: 25px;
     background-color: rgb(255, 255, 255, 0.2);
 }
@@ -60,6 +61,7 @@ body{
     height: 8vh;
     text-align: center;
     padding: 2.5vh 1vw;
+    border: 2px solid rgba(255, 255, 255, 0.363);
     border-radius: 25px;
     background-color: rgb(255, 255, 255, 0.2);
 }
